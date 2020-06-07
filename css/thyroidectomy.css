@@ -19,7 +19,7 @@ h1, h2{
 /*header styles*/
 
 header h1{
-	color: #d15dae;
+	color: darkslateblue;
 	font-size: 50px;
 	line-height: 50px;
 	
@@ -52,6 +52,19 @@ p{
 	font-family: 'sans-serif';
 }
 
+.box{
+	padding: 0px;
+	margin: 0px;
+}
+
+.box-1{background-color: #54d6b7;}
+
+a{
+	color: darkslateblue;
+}
+a:hover{
+	color: #54d6b7;
+}
 
 footer{
 	background-color: #54d6b7;
